@@ -1,4 +1,7 @@
-# ASSIGMENT-2;
+ASSIGMENT-2;
+Deploy a basic web app using Azure App Service. 
+Document the steps. Please submit the link to this assignment via GitHub Deadline
+
 Scenario-Based: Describe how you would use Azure to host a simple web application, considering cost, scalability, and security
 
 Practical Task: Deploy a basic web app using Azure App Service. Document the steps.
