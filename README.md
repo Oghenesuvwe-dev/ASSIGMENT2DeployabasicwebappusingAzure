@@ -1,4 +1,4 @@
-ASSIGMENT-2;
+<hr>
 Deploy a basic web app using Azure App Service. 
 Document the steps. Please submit the link to this assignment via GitHub Deadline
 
@@ -7,9 +7,7 @@ Scenario-Based: Describe how you would use Azure to host a simple web applicatio
 Practical Task: Deploy a basic web app using Azure App Service. Document the steps.
 Please submit the link to this assignment via GitHub 
 Deadline: September, 2024
-
-
-SOLUTION....
+<hr>
 
 To create/host a simple considering cost, scalability and security with azure app services, the plan is to host a “static web app” with/to Github.
 
@@ -20,7 +18,7 @@ Select “Static Web App”
 
 <img width="1440" alt="APP SERVICES- STATIC WA" src="https://github.com/user-attachments/assets/7f22dd38-6d78-4cb6-9a84-e6acaaed0492">
 
-BASIC TAB;.
+BASIC TAB:.
 SELECT subscription and Resource group.
 WEB APP NAME - “Storefront”
 
